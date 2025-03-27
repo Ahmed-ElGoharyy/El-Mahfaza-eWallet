@@ -21,6 +21,12 @@
       <UniqueIdentifier>{639EADAA-A684-42e4-A9AD-28FC9BCB8F7C}</UniqueIdentifier>
       <Extensions>ts</Extensions>
     </Filter>
+    <Filter Include="Model">
+      <UniqueIdentifier>{b19b34e4-8b9f-4db8-a860-f48b9a62097d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Images/Resources">
+      <UniqueIdentifier>{1fa54885-0330-45fc-ac56-441425df9dce}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -32,6 +38,5 @@
     <None Include="main.qml">
       <Filter>Source Files</Filter>
     </None>
-
   </ItemGroup>
 </Project>
